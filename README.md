@@ -1,4 +1,5 @@
-# Biomedical Scientist, MSc in Bioinformatics
+# Douglas Felipe| PesquisaDoug
+## Biomedical Scientist, MSc in Bioinformatics
 
 - **PhD Student in Bioinformatics (UFRN | PPg - Bioinfo)** 
 - **Undergraduate Student in Software Engineering (IMD - UFRN)**
