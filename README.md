@@ -1,4 +1,4 @@
-# Douglas Felipe| PesquisaDoug
+# Douglas Felipe | PesquisaDoug
 ## Biomedical Scientist, MSc in Bioinformatics
 
 - **PhD Student in Bioinformatics (UFRN | PPg - Bioinfo)** 
