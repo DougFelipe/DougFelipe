@@ -41,4 +41,11 @@ As a Software Engineering student, I am specializing in Data Science, Data Visua
 
 <h1 align="left">Skill Set</h1>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dougfelipe&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dougfelipe&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 
