@@ -14,8 +14,7 @@ My PhD research focuses on developing and researching innovative biotechnologica
 
 <h1 align="center">Software Engineer Focus</h4>
 
-Additionally, I am deepening my expertise in Data Science, Artificial Intelligence, and Computational Intelligence applied to Software Engineering.
+## Software Engineering Focus
 
-## Collaboration
+As a Software Engineering student, I am specializing in Data Science, Data Visualization, Artificial Intelligence, and Computational Intelligence. My primary interests are in applications involving the automation of data science and machine learning pipelines. This includes data engineering, preprocessing, and analytics, all based on DevOps and MLOps practices. My focus as a software engineer is on developing software solutions that integrate these fields and I am driven to apply my knowledge in these fields to develop all-encompassing software solutions.
 
-I am always available for productive discussions and open to opportunities to collaborate on interdisciplinary projects in Environmental Biotechnology and Data Science.
