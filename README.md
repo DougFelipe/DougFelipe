@@ -18,7 +18,7 @@
 
 
 <h1 align="center">Douglas Felipe | PesquisaDoug</h1>
-<h1 align="center">Biomedical Scientist, MSc in Bioinformatics</h2>
+<h1 align="center">Biomedical Scientist, MSc. in Bioinformatics</h2>
 <br clear="both">
 
 
