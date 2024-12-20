@@ -25,9 +25,9 @@
 
 - **PhD Student in Bioinformatics (UFRN | PPg - Bioinfo)** 
 - **Undergraduate Student in Software Engineering (IMD - UFRN)**
-- **Minor Student in Data Science (IMD - UFRN)** 
-- **Minor Student in Artificial Intelligence (IMD - UFRN)**
-- **Minor Student in Computational Intelligence (IMD - UFRN)**
+- **Minor in Data Science (IMD - UFRN)** 
+- **Minor in Artificial Intelligence (IMD - UFRN)**
+- **Minor in Computational Intelligence (IMD - UFRN)**
 
 <h2 align="center">PhD Focus</h2>
 
